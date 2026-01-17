@@ -1,12 +1,18 @@
 <div align="right">
 
-[📌 Open Helper Repo](https://github.com/xXAI-botXx/Project-Helper)
+[📌 Open Helper Repo](https://github.com/M-106/Project-Helper)
 
 </div>
 
 <div align="center">
 
+<!--
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
+-->
+<p align="center">
+  <img src="./res/m160_logo.png" alt="M-160" width="40%" height="40%" style="border-radius: 50%;">
+</p>
+
 
 <!-- <h2>Data Science | Data Analysis | Machine Learning</h2> -->
 <h2>Deep Learning | Computer Vision | Generative AI</h2>
@@ -46,12 +52,12 @@
 
 <br><br>
 
-Hello there, I'm Tobia or xXAI-botXx here.<br>
+Hello there, I'm Tobia or M-106 here.<br>
 I'm an AI Engineer / ML Engineer currently making my master in the field of AI in the Offenburg University of Applied Sciences where I already made my Bachelor of Science in the field of AI.<br>
 My world is classical Data Science (Visualizations, Data Analyzation, Classic Machine Learning Algorithms) and I feel even more comfortable in Deep Learning with a specialization towards Computer Vision.<br>
 I see my strength in my motivation to solve difficult tasks and in documenting my work in detail.
 
-> P.S. If you’re wondering about the name "xXAI-botXx," try reading it backward—but 🤫!
+<!-- Add here why "M-106" -->
 
 So, enjoy exploring my profile, and feel free to connect! 😄
 
@@ -93,14 +99,14 @@ ___
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Depth-Anything-V2-Physgen&theme=aura_dark)](https://github.com/xXAI-botXx/Depth-Anything-V2-Physgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=3xM&theme=aura_dark)](https://github.com/xXAI-botXx/3xM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Project_Transformer&theme=aura_dark)](https://github.com/xXAI-botXx/Project_Transformer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=paired_image-to-image_translation&theme=aura_dark)](https://github.com/xXAI-botXx/paired_image-to-image_translation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Calm-down-bot&theme=aura_dark)](https://github.com/xXAI-botXx/Calm-down-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Depth-Anything-V2-Physgen&theme=aura_dark)](https://github.com/M-106/Depth-Anything-V2-Physgen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/M-106/torch-mask-rcnn-instance-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=3xM&theme=aura_dark)](https://github.com/M-106/3xM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=comfortable-yolact&theme=aura_dark)](https://github.com/M-106/comfortable-yolact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Project_Transformer&theme=aura_dark)](https://github.com/M-106/Project_Transformer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=paired_image-to-image_translation&theme=aura_dark)](https://github.com/M-106/paired_image-to-image_translation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Calm-down-bot&theme=aura_dark)](https://github.com/M-106/Calm-down-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/M-106/Wer-hat-gebohrt)
 <br><br><br>
 <br>
 
@@ -184,11 +190,11 @@ Here I will share one of my prasentations as example for you.
 ---
 A presentation about the GPT-3 Paper.
 <br><br><br>
-<img width="750" alt="Screenshot 2023-12-17 125230" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/500655e0-6419-46f5-8620-2a01a10d6149"></img>
-<img width="750" alt="Screenshot 2023-12-17 124827" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/40fc046a-16e9-4395-9a72-3d17e88441b9"></img>
-<img width="750" alt="Screenshot 2023-12-17 124941" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/92b305a0-04cd-43b7-819b-aa088c27faee"></img>
-<img width="750" alt="Screenshot 2023-12-17 125008" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/6665c1dc-764b-4d28-9421-0b8e521f0da4"></img>
-<img width="750" alt="Screenshot 2023-12-17 125044" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/30dbffcd-8d1f-4503-9cb9-455d4276ad9d"></img>
+<img width="750" alt="Screenshot 2023-12-17 125230" src="https://github.com/M-106/M-106/assets/50902823/500655e0-6419-46f5-8620-2a01a10d6149"></img>
+<img width="750" alt="Screenshot 2023-12-17 124827" src="https://github.com/M-106/M-106/assets/50902823/40fc046a-16e9-4395-9a72-3d17e88441b9"></img>
+<img width="750" alt="Screenshot 2023-12-17 124941" src="https://github.com/M-106/M-106/assets/50902823/92b305a0-04cd-43b7-819b-aa088c27faee"></img>
+<img width="750" alt="Screenshot 2023-12-17 125008" src="https://github.com/M-106/M-106/assets/50902823/6665c1dc-764b-4d28-9421-0b8e521f0da4"></img>
+<img width="750" alt="Screenshot 2023-12-17 125044" src="https://github.com/M-106/M-106/assets/50902823/30dbffcd-8d1f-4503-9cb9-455d4276ad9d"></img>
 
 <br><br>
 
@@ -256,101 +262,101 @@ To simplify that, I listed my repositories by category and with some words to cl
 
 **Machine Learning Projects**
 
-- [Generative Deep Learning](https://github.com/xXAI-botXx/Generative-Deep-Learning)<br>
+- [Generative Deep Learning](https://github.com/M-106/Generative-Deep-Learning)<br>
   Summariezed knoledge about generative ai, which is a crucial part of machine learning / deep learning and responsible for many awesome AI abilities. This project includes theory and practise.
-- [Mask-RCNN for PyTorch Instance Segmentation](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)<br>
+- [Mask-RCNN for PyTorch Instance Segmentation](https://github.com/M-106/torch-mask-rcnn-instance-segmentation)<br>
   I use the MASkRCNN from PyTorch to make a instance segmentation. Training Loop, Inference, Data Preparation, ...
-- [3xM](https://github.com/xXAI-botXx/3xM)<br>
+- [3xM](https://github.com/M-106/3xM)<br>
   The triple M dataset is a syntethic computer vision dataset for instance-segmentation for bin-picking using Unreal Engine 5. Specially created to control the amount of 3D-Models and Materials during the datageneration process. I created multiple datasets each with 20.000 automatically labelled images for my bachelor exam.
-- [Comfortable Yolact](https://github.com/xXAI-botXx/comfortable-yolact)<br>
+- [Comfortable Yolact](https://github.com/M-106/comfortable-yolact)<br>
   This is a YOLACT Wrapper, with easy installation and easy training and easy inference. There is also an installation notebook, to check your installation and also show you the architecture as well as  the exact input and output of the YOLACT Model. This repo fixes the config file based approach to make YOLACT usable in python code like in notebooks. There is a notebook for training and one for inference.
-- [Genetic Algorithm](https://github.com/xXAI-botXx/Genetic-Algorithm)<br>
+- [Genetic Algorithm](https://github.com/M-106/Genetic-Algorithm)<br>
   Hyperparamater-Optimization from Deep-Learning and Machine Learning Models with Gentic Algorithm. A [PyPi project](https://pypi.org/project/Simple-Genetic-Algorithm/) and also can used for any other usage. The documentation should be self-explaining with examples.
-- [Calm Down Bot](https://github.com/xXAI-botXx/Calm-down-bot)<br>
+- [Calm Down Bot](https://github.com/M-106/Calm-down-bot)<br>
   A GPT-2 based Chat-bot for mental distress. Trained on ChatGPT-3 generated Chatlogs.
-- [ANN-106](https://github.com/xXAI-botXx/ANN-106)<br>
+- [ANN-106](https://github.com/M-106/ANN-106)<br>
   An educational project, where i try to program my own deep learning library.
-- [Wer hat gebohrt?](https://github.com/xXAI-botXx/Wer-hat-gebohrt)<br>
+- [Wer hat gebohrt?](https://github.com/M-106/Wer-hat-gebohrt)<br>
   In this project, an application was programmed that collects drilling data using a GUI and then tries to assign a driller to one of two people using ML algorithms. The 2 people had to create training data beforehand. Voltage, audio and current data are available.<br>
-  This project is quite extensive and so I wrote my own API documentation for it. [Click here to see it](https://xxai-botxx.github.io/Wer-hat-gebohrt/) (I love it😍).<br>
+  This project is quite extensive and so I wrote my own API documentation for it. [Click here to see it](https://M-106.github.io/Wer-hat-gebohrt/) (I love it😍).<br>
   This project contains many things. From data-collection to model-training to prediction and parallel programming, GUI-programming. It's a good project to see how nice a GUI can look with TKinter, too.
-- [Job Posts Similarity](https://github.com/xXAI-botXx/Job-Posts-Similarity)<br>
+- [Job Posts Similarity](https://github.com/M-106/Job-Posts-Similarity)<br>
   The task here is to find similar job posts using NLP. I used SpaCy for this task and this project was made in coorperation with Syon Kadkade.<br>
   Important part of this project was to analyse the problem and find a solution. Above all, I did very scientific work here.
-- [Weather Collection](https://github.com/xXAI-botXx/Weather-Collection)<br>
+- [Weather Collection](https://github.com/M-106/Weather-Collection)<br>
   This is a helper project for the Weather Analysis (before i saw that it doesn't work at all). It's about collecting data from a website over a period of time. Like every hour. For that I used Silenium Lib. And it works...partly. Unfortunaly the data collection regularly take a break for a few days...maybe thats a problem from replit where i run the code.<br>
   Today I would use other liberaies instead such as request-lib with BeatifulSoup-lib for collecting the data.
-- [YouTube Advertising Blocking Bot](https://github.com/xXAI-botXx/YouTube-Bot)<br>
+- [YouTube Advertising Blocking Bot](https://github.com/M-106/YouTube-Bot)<br>
   This is not supposed to be a real application and was not sufficiently developed for that. So don't use it for blocking advertising. It is a computer vision project to recognize objects in images. In this case a skip advertising-button recognition. It is developed for the german language and for my 2 monitors at home.
 - And more are planned 🥳🚀
 <br>
 
 **Other Python Projects**
-- [QR-Code Creator](https://github.com/xXAI-botXx/QR-Code-Creator)<br>
+- [QR-Code Creator](https://github.com/M-106/QR-Code-Creator)<br>
   This repo contains an generator for QR-COdes developed for Replit.
-- [Discord Bot](https://github.com/xXAI-botXx/Discord-Bot)<br>
+- [Discord Bot](https://github.com/M-106/Discord-Bot)<br>
   It's about an allrounder Bot for discord. The bot offers a wide range of skills and is the perfect chat-assistent.<br>
   I invested a lot of time and the code is nowadays partwise a bit messy. But I love the bot. It can draw function, calculate calculations, flip a coin, play chess, play YouTube Videos as MP3 and much more! My favourite game is 4-wins which the bot also can do.
-- [Python Lair](https://github.com/xXAI-botXx/Python_Lair)<br>
+- [Python Lair](https://github.com/M-106/Python_Lair)<br>
   Python Lair is a block based python IDE programmed in python. It is a project for fun. I used PyQt for the GUI.
-- [Chess](https://github.com/xXAI-botXx/Chess)<br>
+- [Chess](https://github.com/M-106/Chess)<br>
   It's the logic of chess. It was so programmed, that I can implement it on diffrent plattforms like in my Discord Bot.
-- [Textbased labyrinth RPG](https://github.com/xXAI-botXx/Textbasiertes-RPG)<br>
+- [Textbased labyrinth RPG](https://github.com/M-106/Textbasiertes-RPG)<br>
   Inspired from the greek mythology and the maze runner saga I programmed a textbased labyrinth game. Goal is to escape and find the next level. In future I want to implement enemies, combat-system and other things that I like.
-- [Python Execution](https://github.com/xXAI-botXx/Python-Execution)<br>
+- [Python Execution](https://github.com/M-106/Python-Execution)<br>
   This repo contains to ipynb-files which shows very basic functionality from python. It's very interesting because you can use the python execution for analysing code. How? Watch the repo. It's worth it :)<br>
   On one side you can show and handle with AST's, these are a part of the python execution. The python code going to represent as tree and thats can be useful. The math-console brings that on the point.<br>
   Moreover you can see the C-byte-instructions of the code to improve the performance of your code.
-- [Website Publisher](https://github.com/xXAI-botXx/Rainbow_Six_Website)<br>
+- [Website Publisher](https://github.com/M-106/Rainbow_Six_Website)<br>
   In this project I wrote a server-application for an old website from me about a game. I used flask to run the website locally.
-- [Chat Analysis](https://github.com/xXAI-botXx/Chat-Analysis)
+- [Chat Analysis](https://github.com/M-106/Chat-Analysis)
   A chat analyzsis between me and my girlfriend. I created a super cool website.
 
 
 <br>
 
 **Java Repositories**
-- [Pi-Collision](https://github.com/xXAI-botXx/Pi_Collisions)<br>
+- [Pi-Collision](https://github.com/M-106/Pi_Collisions)<br>
   It's about an application for showing the pi-collision effect. It's a small application with a GUI and some physics in it. The Pi-Collision-effect is that if 2 objects collide and there is a wall, the amount of collisions going to be the number of pi. It's very interesting. To go higher with the amount of collisions I implemted a performance mode, where nothing is drawing and the collisions going faster.  
-- [Falling Champion](https://github.com/xXAI-botXx/Falling-Champion)<br>
+- [Falling Champion](https://github.com/M-106/Falling-Champion)<br>
   Falling Champion is the title of my own created game. I used Java to make a really fun game. Special for my games are the credits. I think it is a nice game and it was particularly important to me that it is a well-rounded overall package.
-- [2D Bomberman](https://github.com/xXAI-botXx/2D-Bomberman)<br>
+- [2D Bomberman](https://github.com/M-106/2D-Bomberman)<br>
   Another game heavily inspired of the original Bomberman. And there is an easter egg in the credits!
-- [Hearts](https://github.com/xXAI-botXx/Hearts)<br>
+- [Hearts](https://github.com/M-106/Hearts)<br>
   In this project I implemented the cardgame hearts in java with server programming. And there is a GUI.
-- [Interactive Text Adventure Reader](https://github.com/xXAI-botXx/Text-Adventure)<br>
+- [Interactive Text Adventure Reader](https://github.com/M-106/Text-Adventure)<br>
   It should be an application for interactive stories and they should be written by the users it self too. Unfortunately i wasn't creative enough to write a nice story 😂
-- [Magic-Sovereign](https://github.com/xXAI-botXx/Magic-Sovereign)<br>
+- [Magic-Sovereign](https://github.com/M-106/Magic-Sovereign)<br>
   Probably my first own Java Game with pretty much no features 😂 I love this project neverless! I wanted to code a Pokemon clone.
-- [Super-Zeldario](https://github.com/xXAI-botXx/Super-Zeldario)<br>
+- [Super-Zeldario](https://github.com/M-106/Super-Zeldario)<br>
   One of my firsts coding projects with friends. We wanted to make a Zelda clone but did not come far.
 
 <br>
 
 **Other Repositories**
-- [Bachelor-Exam](https://github.com/xXAI-botXx/Bachelor-Exam)<br>
+- [Bachelor-Exam](https://github.com/M-106/Bachelor-Exam)<br>
   Git project of my bachelor exam, including writing, planning, research and more.
-- [Master-Exam](https://github.com/xXAI-botXx/Master-Exam)<br>
+- [Master-Exam](https://github.com/M-106/Master-Exam)<br>
   Git project of my master exam, including writing, planning, research and more.
-- [The Cave Code](https://github.com/xXAI-botXx/cave_code)<br>
+- [The Cave Code](https://github.com/M-106/cave_code)<br>
   This Project is a ambitious project to find the slution for every problem. It is an unrealistic project and right now it is just an idea. I still have to figure out how I can use AI to achieve the goal. Right now there is no code, just my ideas and my plan.
-- [Chinesisch](https://github.com/xXAI-botXx/Chinesisch)<br>
+- [Chinesisch](https://github.com/M-106/Chinesisch)<br>
   This project tries to collect knowledge about china. The language, the geography and mythology. No Coding in this project!
 
 <br>
 
 **Helper Repositories**
-- [Project Helper](https://github.com/xXAI-botXx/Project-Helper)<br>
+- [Project Helper](https://github.com/M-106/Project-Helper)<br>
   This repo should include important files which help me out. As example a guide for git.<br>
   It should grows over the time and should contain basic code as cook-recipes and guides to important topics.<br>
   Maybe you find something helpful, too. It references to other "helper" repositories, which partwise are not listed here.
-- [Pythonic X-Ray](https://github.com/xXAI-botXx/Pythonic-X-ray)<br>
+- [Pythonic X-Ray](https://github.com/M-106/Pythonic-X-ray)<br>
   Easily get interesting code insights to your work.
-- [Mouse-Keyboard-Activity](https://github.com/xXAI-botXx/Mouse-Keyboard-Activity)<br>
+- [Mouse-Keyboard-Activity](https://github.com/M-106/Mouse-Keyboard-Activity)<br>
   Presses a given button every X minutes on a given position on your display and can move the mouse random.
-- [Computer Vision](https://github.com/xXAI-botXx/computer-vision)<br>
+- [Computer Vision](https://github.com/M-106/computer-vision)<br>
   Contains some important and basic Computer Vision tasks with OpenCV. It's more like an helper project.
-- [Deep-Learning-for-Medical-Images](https://github.com/xXAI-botXx/Deep-Learning-for-Medical-Images)<br>
+- [Deep-Learning-for-Medical-Images](https://github.com/M-106/Deep-Learning-for-Medical-Images)<br>
    This repo covers some basics for deep learning in the field of medical images. There are also some easy basics about numpy and pytorch.
 
 <br>
@@ -545,11 +551,11 @@ ___
 
 <br><br><br>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xXAI-botXx&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&theme=aura_dark&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-106&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-106&theme=aura_dark&layout=compact)
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=xXAI-botXx&theme=aura_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=M-106&theme=aura_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
 
@@ -571,15 +577,15 @@ By the way, my insider tip for new friendships among social media is Slowly. -->
 
 <div align="center">
 
-[<img style="margin:15px" alt="xXAI-BotXx | Kaggle" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg">](https://www.kaggle.com/tobiaippolito "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx "xXAIbotXx") 
+[<img style="margin:15px" alt="M-106 | Kaggle" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg">](https://www.kaggle.com/tobiaippolito "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="M-106 | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="M-106 | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="M-106 | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="M-106 | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx "xXAIbotXx") 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
-[<img style="margin:15px" alt="xXAI-BotXx | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191069497-e167047c-a4ef-4d19-8d68-4a52f90af414.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
+[<img style="margin:15px" alt="M-106 | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191069497-e167047c-a4ef-4d19-8d68-4a52f90af414.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 </div>
