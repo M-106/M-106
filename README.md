@@ -100,13 +100,13 @@ ___
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Depth-Anything-V2-Physgen&theme=aura_dark)](https://github.com/M-106/Depth-Anything-V2-Physgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/M-106/torch-mask-rcnn-instance-segmentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=3xM&theme=aura_dark)](https://github.com/M-106/3xM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=comfortable-yolact&theme=aura_dark)](https://github.com/M-106/comfortable-yolact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Project_Transformer&theme=aura_dark)](https://github.com/M-106/Project_Transformer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=paired_image-to-image_translation&theme=aura_dark)](https://github.com/M-106/paired_image-to-image_translation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Calm-down-bot&theme=aura_dark)](https://github.com/M-106/Calm-down-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/M-106/Wer-hat-gebohrt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/M-106/torch-mask-rcnn-instance-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=3xM&theme=aura_dark)](https://github.com/M-106/3xM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=comfortable-yolact&theme=aura_dark)](https://github.com/M-106/comfortable-yolact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Project_Transformer&theme=aura_dark)](https://github.com/M-106/Project_Transformer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=paired_image-to-image_translation&theme=aura_dark)](https://github.com/M-106/paired_image-to-image_translation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Calm-down-bot&theme=aura_dark)](https://github.com/M-106/Calm-down-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/M-106/Wer-hat-gebohrt)
 <br><br><br>
 <br>
 
@@ -176,11 +176,12 @@ Content:<br><br>
 <br>
 <br>
 -->
-
+<!--
 ### Presentations
 
 In addition I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
 Here I will share one of my prasentations as example for you.
+
 
 <div align=center>
 
@@ -190,13 +191,14 @@ Here I will share one of my prasentations as example for you.
 ---
 A presentation about the GPT-3 Paper.
 <br><br><br>
-<img width="750" alt="Screenshot 2023-12-17 125230" src="https://github.com/M-106/M-106/assets/50902823/500655e0-6419-46f5-8620-2a01a10d6149"></img>
-<img width="750" alt="Screenshot 2023-12-17 124827" src="https://github.com/M-106/M-106/assets/50902823/40fc046a-16e9-4395-9a72-3d17e88441b9"></img>
-<img width="750" alt="Screenshot 2023-12-17 124941" src="https://github.com/M-106/M-106/assets/50902823/92b305a0-04cd-43b7-819b-aa088c27faee"></img>
-<img width="750" alt="Screenshot 2023-12-17 125008" src="https://github.com/M-106/M-106/assets/50902823/6665c1dc-764b-4d28-9421-0b8e521f0da4"></img>
-<img width="750" alt="Screenshot 2023-12-17 125044" src="https://github.com/M-106/M-106/assets/50902823/30dbffcd-8d1f-4503-9cb9-455d4276ad9d"></img>
+<img width="750" alt="Screenshot 2023-12-17 125230" src="https://github.com/M-106/m-106/assets/50902823/500655e0-6419-46f5-8620-2a01a10d6149"></img>
+<img width="750" alt="Screenshot 2023-12-17 124827" src="https://github.com/M-106/m-106/assets/50902823/40fc046a-16e9-4395-9a72-3d17e88441b9"></img>
+<img width="750" alt="Screenshot 2023-12-17 124941" src="https://github.com/M-106/m-106/assets/50902823/92b305a0-04cd-43b7-819b-aa088c27faee"></img>
+<img width="750" alt="Screenshot 2023-12-17 125008" src="https://github.com/M-106/m-106/assets/50902823/6665c1dc-764b-4d28-9421-0b8e521f0da4"></img>
+<img width="750" alt="Screenshot 2023-12-17 125044" src="https://github.com/M-106/m-106/assets/50902823/30dbffcd-8d1f-4503-9cb9-455d4276ad9d"></img>
 
 <br><br>
+-->
 
 <!--
 ---
@@ -551,9 +553,9 @@ ___
 
 <br><br><br>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-106&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-106&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-106&theme=aura_dark&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-106&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-106&theme=aura_dark&layout=compact)
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=M-106&theme=aura_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
