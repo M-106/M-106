@@ -10,7 +10,7 @@
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
 -->
 <p align="center">
-  <img src="./res/m160_logo.png" alt="M-160" width="40%" height="40%" style="border-radius: 50%;">
+  <img src="./res/m160_logo_circle.png" alt="M-160" width="40%" height="40%" style="border-radius: 50%;">
 </p>
 
 
