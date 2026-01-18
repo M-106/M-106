@@ -649,7 +649,7 @@ By the way, my insider tip for new friendships among social media is Slowly. -->
 [<img style="margin:15px" alt="M-106 | Kaggle" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg">](https://www.kaggle.com/tobiaippolito "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="M-106 | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="M-106 | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="M-106 | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="M-106 | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "M_106x")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="M-106 | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx "xXAIbotXx") 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
