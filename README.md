@@ -409,6 +409,24 @@ https://user-images.githubusercontent.com/50902823/191060465-2dd076cc-2577-47c5-
 <br><br>
 
 ---
+<h3 align='center'>Computer Vision - Pix2Pix learning complex reflexions - First Epoch</h3>
+
+---
+
+Video Explanation:
+* `Left` = Input
+* `Middle` = Prediction
+* `Right` = Target Output
+
+https://github.com/user-attachments/assets/cec451c4-208b-42b5-b69b-2dc9ce2a06e7
+
+
+
+
+<br><br>
+
+
+---
 <h3 align='center'>Python Lair</h3>
 
 ---
