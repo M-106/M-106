@@ -24,10 +24,14 @@
 
 <a name="top"></a>
 
+<!--
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark)](https://github.com/M-106/github-profile-summary-cards) <!--aura_dark material_palenight-->
 
 <!--### Nice to meet you!-->
+<!--
 <a name="Introduction"></a>
 [<img align="center" src="./res/banner/banner_introduction.png"></img>](#top)
+-->
 <!--
 
 ![banner_introduction](https://user-images.githubusercontent.com/50902823/172662730-d6b61782-837b-438e-8251-9d9d9d2aeb28.png#gh-dark-mode-only)
@@ -548,14 +552,23 @@ https://user-images.githubusercontent.com/50902823/191060465-2dd076cc-2577-47c5-
 
 ___
 <!--### Stats-->
+
 <a name="Stats"></a>
 [<img width="100%" align="center" src="./res/banner/banner_stats.png"></img>](#top)
 
 <br><br><br>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-106&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-106&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-106&theme=aura_dark&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-106&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-106&theme=aura_dark)
+
+
+<!--
+[![Anurag's GitHub stats](https://only-fork-github-readme-stats.vercel.app/api?username=m-106&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-106&theme=aura_dark&layout=compact) -->
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=M-106&theme=aura_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->

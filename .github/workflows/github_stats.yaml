@@ -1,0 +1,13 @@
+name: Update GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '*/60 */6 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: GitHub-Profile-Summary-Cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: M-106/ONLY_FORK_github-profile-summary-cards@v0.7.0
