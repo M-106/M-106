@@ -111,21 +111,29 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=paired_image-to-image_translation&theme=aura_dark)](https://github.com/M-106/paired_image-to-image_translation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Calm-down-bot&theme=aura_dark)](https://github.com/M-106/Calm-down-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/M-106/Wer-hat-gebohrt)
+
 <br><br><br>
 <br>
 
 <!-- ![Untitled(2)](https://github.com/user-attachments/assets/25d4de74-32c6-4adc-9c02-4304f10c5157) -->
 
 
-
+  
 ### My Exam Work for my Bachelor of Science
 
 <br>
 
-<a href="https://1drv.ms/b/s!AqSTBkFULemxmJgnJLD-nk2EkOn5dA?e=8EEuwZ">
+<a href="https://1drv.ms/b/s!AqSTBkFULemxmJgnJLD-nk2EkOn5dA?e=8EEuwZ" align="center">
 <div>
-    
-![bachelor-exam](https://github.com/user-attachments/assets/99112e7a-0b29-449b-85a0-053adc1543e5)
+
+<table width="50%" align="center">
+  <tr align="center">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/99112e7a-0b29-449b-85a0-053adc1543e5" width="90%" align="center">
+    </td>
+  </tr>
+</table>
+
 </div>
 </a>
 Grade: 1,7<br>
@@ -391,6 +399,17 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 <br><br>
 
 ---
+<h3 align='center'>Reinforcement Learning - OpenAI gym - CartPole</h3>
+
+---
+
+https://user-images.githubusercontent.com/50902823/191060465-2dd076cc-2577-47c5-8057-a14417f24dae.mp4
+
+
+
+<br><br>
+
+---
 <h3 align='center'>Python Lair</h3>
 
 ---
@@ -465,6 +484,7 @@ https://user-images.githubusercontent.com/50902823/172581750-1b917fe7-24ce-4b1f-
 
 <br> <br>
 
+<!--
 ---
 <h3 align='center'>Hearts</h3>
 
@@ -477,6 +497,8 @@ https://user-images.githubusercontent.com/50902823/172581886-c1ae8a0c-1641-4881-
 https://user-images.githubusercontent.com/50902823/172581895-a2640416-f8ec-4620-83f7-8ab00aa18292.mp4
 
 <br> <br>
+
+-->
 
 ---
 <h3 align='center'>YouTube Bot</h3>
@@ -511,13 +533,16 @@ https://user-images.githubusercontent.com/50902823/172582920-1bbe8805-135a-4bd5-
 
 <br><br>
 
+<!--
+
 ---
 <h3 align='center'>PS5 Bot</h3>
 
 ---
 
 https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-9da8-b273be31389b.mp4
-
+-->
+<!--
 ---
 <h3 align='center'>Magic-Sovereign</h3>
 
@@ -525,9 +550,9 @@ https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-
 
 https://github.com/user-attachments/assets/93646c3a-5abc-4559-9a49-9a62e7c4d9db
 
+-->
 
-
-
+<!--
 ---
 <h3 align='center'>Super-Zeldario</h3>
 
@@ -536,19 +561,11 @@ https://github.com/user-attachments/assets/93646c3a-5abc-4559-9a49-9a62e7c4d9db
 https://github.com/user-attachments/assets/ac2ee6b7-60d4-4c6d-bf00-294eac79c29c
 
 
-
 <br> <br>
 
----
-<h3 align='center'>Reinforcement Learning - OpenAI gym - CartPole</h3>
-
----
-
-https://user-images.githubusercontent.com/50902823/191060465-2dd076cc-2577-47c5-8057-a14417f24dae.mp4
+-->
 
 
-
-<br><br>
 
 ___
 <!--### Stats-->
@@ -558,13 +575,33 @@ ___
 
 <br><br><br>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark" width="100%">
+</div>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-106&theme=aura_dark" width="49.69999%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-106&theme=aura_dark" width="49.6999%">
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark)
+<!--
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-106&theme=aura_dark" width="100%">
+    </td>
+  </tr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-106&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-106&theme=aura_dark)
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-106&theme=aura_dark" width="100%">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-106&theme=aura_dark" width="100%">
+    </td>
+  </tr>
+</table>
+-->
 
 
 <!--
