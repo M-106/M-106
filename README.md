@@ -112,7 +112,20 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/M-106/Wer-hat-gebohrt)
 
 <br><br>
-<br>
+
+<img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" width=40% align="right"></img>
+
+### PyPI Projects
+
+| Name | Tag | Description | PyPI | Repo |
+|---|---|---|---|---|
+| pythonic-xray | Utility | Statistics of Python Packages | [Link](https://pypi.org/project/pythonic-xray/) | [GitHub](https://github.com/M-106/Pythonic-X-ray) |
+| simple-genetic-algorithm | Optimization | Genetic Algorithm for Optimization | [Link](https://pypi.org/project/simple-genetic-algorithm/) | [GitHub](https://github.com/M-106/Genetic-Algorithm) |
+| runtime-guard | Utility | Runtime Monitoring and Emergent Stopping | [Link](https://pypi.org/project/runtime-guard/) | [GitHub](https://github.com/M-106/Runtime-Guard) |
+| img-phy-sim | Simulation | 2D Ray-Tracing on Images | [Link](https://pypi.org/project/img-phy-sim/) | [GitHub](https://github.com/M-106/Image-Physics-Simulation) |
+
+
+<br><br>
 
 <!-- ![Untitled(2)](https://github.com/user-attachments/assets/25d4de74-32c6-4adc-9c02-4304f10c5157) -->
 
