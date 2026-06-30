@@ -104,6 +104,8 @@ ___
 
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Cellulars-for-Cell-Likes&theme=aura_dark)](https://github.com/M-106/Cellulars-for-Cell-Likes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=MCR-Lab&theme=aura_dark)](https://github.com/M-106/MCR-Lab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-106&repo=Image-Physics-Simulation&theme=aura_dark)](https://github.com/M-106/Image-Physics-Simulation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/M-106/torch-mask-rcnn-instance-segmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-106&repo=3xM&theme=aura_dark)](https://github.com/M-106/3xM)
