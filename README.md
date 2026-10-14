@@ -119,7 +119,7 @@ ___
 
 <br><br>
 
-<img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" width=40% align="right"></img>
+<img src="https://pypi.org/static/images/logo-small.0e0855d0.svg" width=40% align="right"></img>
 
 ### PyPI Projects
 
