@@ -421,7 +421,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 
 ---
 
-https://user-images.githubusercontent.com/50902823/191060465-2dd076cc-2577-47c5-8057-a14417f24dae.mp4
+FIXME
 
 
 
@@ -483,56 +483,16 @@ https://github.com/user-attachments/assets/5d4fbb72-4228-430a-9bb2-6fa64b6f3bef
 ---
 
 
-https://user-images.githubusercontent.com/50902823/172580733-9cad99d5-dfa9-4c0a-8fda-9cf466af1581.mp4
+FIXME
 
 <br>
 
-https://user-images.githubusercontent.com/50902823/172580754-6be96943-9a3c-424b-9a8a-7aee3b37a33d.mp4
+FIXME
 
 
 
 <br> <br>
-<!--
----
-<h3 align='center'>Visualizations</h3>
 
----
-...
-
-<br> <br> 
-
----
-<h3 align='center'>Discord Bot</h3>
-
----
-
-<div style="float:left">
-
-<img src="./res/collection/chess.png"></img>
-<img src="./res/collection/discord_calc.png"></img>
-<img src="./res/collection/dicord_coinflip.png"></img>
-<img src="./res/collection/discord_func_01.png"></img>
-<img src="./res/collection/discord_func_02.png"></img>
-<img src="./res/collection/discord_youtube.png"></img>
-
-</div>
-
-<br> <br>
--->
-
----
-<h3 align='center'>2D Bomberman</h3>
-
----
-
-
-https://user-images.githubusercontent.com/50902823/172580887-b5e822a1-8e07-45e6-a8ba-9208df50c9f4.mp4
-
-<br>
-
-https://user-images.githubusercontent.com/50902823/172581485-8c157091-c30d-4369-9b70-f4ef87e996d6.mp4
-
-<br> <br>
 
 ---
 <h3 align='center'>Falling Champion</h3>
@@ -540,15 +500,15 @@ https://user-images.githubusercontent.com/50902823/172581485-8c157091-c30d-4369-
 ---
 
 
-https://user-images.githubusercontent.com/50902823/172581641-422c87a7-d38b-4701-aac8-5488fefa7acf.mp4
+FIXME
 
 <br>
 
-https://user-images.githubusercontent.com/50902823/172581702-788d3199-0dbd-441e-b2d2-f6d2797b3858.mp4
+FIXME
 
 <br>
 
-https://user-images.githubusercontent.com/50902823/172581750-1b917fe7-24ce-4b1f-b265-744d0c003c81.mp4
+FIXME
 
 <br> <br>
 
@@ -567,18 +527,6 @@ https://user-images.githubusercontent.com/50902823/172581895-a2640416-f8ec-4620-
 <br> <br>
 
 -->
-
----
-<h3 align='center'>YouTube Bot</h3>
-
----
-
-
-https://user-images.githubusercontent.com/50902823/172582689-25d630c9-af9c-41ab-862b-cbdeb6c0a616.mp4
-
-<br>
-
-https://user-images.githubusercontent.com/50902823/172582708-848f2779-d2dd-431a-8697-2e484d14a81c.mp4
 
 
 <br> <br>
@@ -601,37 +549,6 @@ https://user-images.githubusercontent.com/50902823/172582920-1bbe8805-135a-4bd5-
 
 <br><br>
 
-<!--
-
----
-<h3 align='center'>PS5 Bot</h3>
-
----
-
-https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-9da8-b273be31389b.mp4
--->
-<!--
----
-<h3 align='center'>Magic-Sovereign</h3>
-
----
-
-https://github.com/user-attachments/assets/93646c3a-5abc-4559-9a49-9a62e7c4d9db
-
--->
-
-<!--
----
-<h3 align='center'>Super-Zeldario</h3>
-
----
-
-https://github.com/user-attachments/assets/ac2ee6b7-60d4-4c6d-bf00-294eac79c29c
-
-
-<br> <br>
-
--->
 
 
 
